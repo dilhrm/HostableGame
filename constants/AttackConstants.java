@@ -5,7 +5,7 @@ import java.awt.Dimension;
  * [AttackConstants.java]
  * Interface containing constants related to various attack mechanics in the game.
  * Defines values such as durations, damages, dimensions, and speeds for different attack types.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public interface AttackConstants {
