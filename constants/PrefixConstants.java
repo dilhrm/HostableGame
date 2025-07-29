@@ -4,7 +4,7 @@ package constants;
  * [PrefixConstants.java]
  * Interface containing constant string prefixes for different entity types in the game.
  * Provides unique identifiers for various game objects like avatars, enemies, and interactables.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public interface PrefixConstants {
