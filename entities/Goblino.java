@@ -3,7 +3,7 @@ package entities;
 /**
  * [Goblino.java]
  * This class represents a 'Goblino', which is a type of Avatar in the game.
- * @author  Michael Khart
+ * @author  Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Goblino extends Avatar {
