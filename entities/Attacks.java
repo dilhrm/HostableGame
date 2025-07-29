@@ -6,7 +6,7 @@ import constants.AttackConstants;
  * [Attacks.java]
  * This abstract class represents a generic attack in the game.
  * It extends the GameObject class, providing functionality for handling damage.
- * @author  Michael Khart
+ * @author  Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public abstract class Attacks extends GameObject implements AttackConstants {
