@@ -7,7 +7,7 @@ import java.awt.*;
  * Interface housing various general game constants.
  * Includes values for gravity, window sizes, proximity radii, and other game-related settings.
  * Centralizes important game parameters for easy access and modification.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public interface GameConstants {
