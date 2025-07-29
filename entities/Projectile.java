@@ -8,7 +8,7 @@ import java.awt.*;
  * This abstract class represents a projectile in the game.
  * It extends the Attacks class, providing common functionality for projectile-based attacks,
  * including speed and direction handling.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public abstract class Projectile extends Attacks {
