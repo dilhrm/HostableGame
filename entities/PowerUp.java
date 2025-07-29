@@ -8,7 +8,7 @@ import static constants.GameConstants.POWERUP_RESPAWN_DURATION;
  * Extends the Interactable class and includes functionality to boost avatar abilities.
  * Power-ups can enhance avatars in various ways, such as increasing damage or defense.
  * Each power-up has a specific type and effect on avatars.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class PowerUp extends Interactable {
