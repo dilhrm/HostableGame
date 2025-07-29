@@ -9,7 +9,7 @@ import static entities.Projectile.calculateProjectileSpeed;
  * [Explosion.java]
  * Represents an explosion attack in the game.
  * It extends the Attacks class and includes functionality for expanding radius and creating shrapnel.
- * @author  Michael Khart
+ * @author  Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Explosion extends Attacks {
