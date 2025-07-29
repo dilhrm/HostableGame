@@ -4,7 +4,7 @@ package entities;
  * [Melee.java]
  * Represents a melee attack in the game.
  * It extends the Attacks class and includes timing functionality to manage the attack's duration.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Melee extends Attacks {
