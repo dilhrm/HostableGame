@@ -20,7 +20,7 @@ import static entities.Projectile.addBloom;
  * This abstract class represents an avatar, a character in the game.
  * It includes properties and methods common to all avatars, such as health,
  * movement abilities, and attack methods. It serves as a base class for specific avatar types.
- * @author  Michael Khart
+ * @author  Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public abstract class Avatar extends Alive implements Serializable, AvatarConstants, AttackConstants, MovementConstants, PrefixConstants, GameConstants {
