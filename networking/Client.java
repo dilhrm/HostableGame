@@ -15,7 +15,7 @@ import java.net.SocketException;
 /**
  * [Client]
  * Handles client-side operations for a multiplayer game including networking and user input.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, 01/22/2024
  */
 public class Client {
