@@ -9,7 +9,7 @@ import java.io.Serializable;
  * Represents a client request in the networking context of the game.
  * Encapsulates a request type and client ID for communication purposes.
  * Implements Serializable for object serialization across network operations.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class ClientRequest implements Serializable {
