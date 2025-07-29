@@ -6,7 +6,7 @@ import constants.AttackConstants;
  * [Bullet.java]
  * Represents a bullet projectile in the game.
  * It extends the Projectile class and includes specific behavior like gravity effect on the bullet.
- * @author  Michael Khart
+ * @author  Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Bullet extends Projectile implements AttackConstants {
