@@ -8,7 +8,7 @@ import java.io.Serializable;
  * Represents a 2D vector or point in the game.
  * Useful for defining positions, speeds, and directions. Implements Serializable for object serializatoin.
  * Includes an inner enum for findin general directions.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Vector implements Serializable {
