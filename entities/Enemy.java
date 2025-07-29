@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Extends the Alive class, providing additional functionality specific to enemies.
  * Includes properties like collide damage and mood, and methods for movement and sight detection.
  * The Mood enum defines different behavioral states of the enemy.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public abstract class Enemy extends Alive implements EnemyConstants {
