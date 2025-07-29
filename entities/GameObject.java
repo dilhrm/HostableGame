@@ -6,7 +6,7 @@ import constants.*;
  * Represents a basic game object in the game.
  * Provides a foundational structure for game entities, including hitbox and ID management.
  * Includes an inner enum for defining collision types.
- * @author  Michael Khart
+ * @author  Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public abstract class GameObject implements PrefixConstants, GameConstants {
