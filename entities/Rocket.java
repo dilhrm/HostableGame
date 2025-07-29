@@ -4,7 +4,7 @@ package entities;
  * [Rocket.java]
  * Represents a rocket projectile in the game.
  * It extends the Projectile class and includes functionality to start an explosion.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Rocket extends Projectile{
