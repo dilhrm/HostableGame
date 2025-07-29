@@ -7,7 +7,7 @@ import java.awt.*;
  * This class represents a 'Norman', which is a type of Avatar in the game.
  * It extends the Avatar class, providing specific functionalities for a Norman character,
  * including its ultimate ability and custom constructor.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Norman extends Avatar {
