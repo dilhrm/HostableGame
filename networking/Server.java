@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * [Server]
  * Manages the networking aspects of a multiplayer game, handling client connections, game phases, and game state updates.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, 01/22/2024
  */
 public class Server {
