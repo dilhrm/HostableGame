@@ -9,7 +9,7 @@ import java.io.Serializable;
  * Extends the Rectangle class and implements Serializable for object serialization.
  * Used for collision detection and positioning of game objects.
  * Includes methods for translating and accessing hitbox properties.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Hitbox extends Rectangle implements Serializable{
