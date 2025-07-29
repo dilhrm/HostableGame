@@ -5,7 +5,7 @@ package entities;
  * This class represents a 'Titan', which is a type of Avatar in the game.
  * It extends the Avatar class, providing specific functionalities for a Titan character,
  * including its ultimate ability and custom constructor.
- * @author  Michael Khart
+ * @author DIlen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Titan extends Avatar {
