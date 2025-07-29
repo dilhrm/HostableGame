@@ -8,7 +8,7 @@ import java.awt.Dimension;
  * Interface containing constants specifically related to enemy entities in the game.
  * Defines values for dimensions, health, speed, defense, and other enemy attributes.
  * Facilitates a unified approach to setting enemy characteristics.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 
