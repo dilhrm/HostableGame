@@ -5,7 +5,7 @@ package entities;
  * Represents a holster for managing the weapons of an avatar.
  * Provides functionality to switch between different weapons and check their availability.
  * Includes the WeaponHolster enum to define different types of weapons.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Holster {
