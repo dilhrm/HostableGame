@@ -5,7 +5,7 @@ package entities;
  * Represents a hazardous object in the game.
  * Extends the Interactable class and includes a damage property.
  * Hazards can inflict damage on avatars that interact with them.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Hazard extends Interactable {
