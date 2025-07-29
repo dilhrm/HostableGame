@@ -7,7 +7,7 @@ import entities.Vector;
  * Interface containing constants related to movement mechanics in the game.
  * Includes values for speeds, distances, and cooldowns of different movement abilities.
  * Aids in defining standardized movement behaviors for game entities.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public interface MovementConstants {
