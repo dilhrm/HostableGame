@@ -5,7 +5,7 @@ package entities;
  * Represents a generic interactable object in the game.
  * Extends the GameObject class, providing basic properties for an object that can be interacted with.
  * This class serves as a base for more specific interactable objects like walls or hazards.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Interactable extends GameObject {
