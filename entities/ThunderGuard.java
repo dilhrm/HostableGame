@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Represents the ThunderGuard enemy in the game.
  * Extends the Enemy class with specific behaviors and states like mood changes and target tracking.
  * Capable of different modes of action such as passive, charging, and aggressive.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class ThunderGuard extends Enemy{
