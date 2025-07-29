@@ -6,7 +6,7 @@ import constants.MovementConstants;
  * Represents a living game object in the game, such as avatars or enemies.
  * Extends GameObject and provides additional properties like health, speed, and collision handling.
  * Serves as a base class for entities that have health and can move.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public abstract class Alive extends GameObject implements MovementConstants {
