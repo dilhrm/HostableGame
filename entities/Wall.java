@@ -4,7 +4,7 @@ package entities;
  * [Wall.java]
  * Represents a wall in the game.
  * Extends the Interactable class, providing basic properties for a wall entity.
- * @author  Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public class Wall extends Interactable {
