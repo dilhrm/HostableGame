@@ -7,7 +7,7 @@ import java.awt.Dimension;
  * Interface defining constants for avatar entities in the game.
  * Specifies dimensions, health, defense, damage multipliers, and more for various avatar types.
  * Serves as a centralized repository for avatar-related properties.
- * @author Michael Khart
+ * @author Dilen De Silva
  * @version 1.0, January 22, 2024
  */
 public interface AvatarConstants {
